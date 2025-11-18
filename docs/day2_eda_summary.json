@@ -1,0 +1,11 @@
+{
+  "amz_sample_shape": [
+    20000,
+    6
+  ],
+  "median_word_count": 66,
+  "95pct_word_count": 157,
+  "tokenizer_test": {
+    "model": "facebook/bart-base"
+  }
+}
