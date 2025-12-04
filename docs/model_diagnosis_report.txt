@@ -1,0 +1,309 @@
+SUMMARIZER DIAGNOSIS REPORT
+===========================
+Leakage: 3 samples
+Exact Copy Rate: 26.0%
+Ref Match Rate: 20.0%
+Substring Rate: 100.0%
+Avg Compression: 0.60
+
+SAMPLES:
+
+Sample 1:
+Input: I found this cd on the shelf at my work. I'm listening to it right now. Sweet instrumentals that make me want to dance around. It reminds me of sugarplum fairies creating music in the 70's. The sound is light. The lyrics are few but this album isn't about the lyrics. It's about the rhythm it creates. It's a pleasant album.
+Gen  : I found this cd on the shelf at my work. I'm listening to it right now. Sweet instrumentals that make me want to dance around. It reminds me of sugarplum fairies creating music in
+Ref  : I found this cd on the shelf at my work. I'm listening to it right now. Sweet instrumentals that make me want to dance around. It reminds me of sugarplum
+--------------------
+
+Sample 2:
+Input: First of all I did not like the book Witch of Blackbird Pond. It's not that the author didn't try, it's just that I hated the book. She may have won many awards for many books, but I don't thing this book desverd any recognition. The book may seem interesting to many others, but it seems like a reason to take a nap to me.It may be because I can't stand historical fiction, most of the time, or that I just didn't like the book. I've read her previous work , and they were very good, but this book just makes her work seem like a joke. I think the book should have a little more excitement before I give it any recogniton.
+Gen  : First of all I did not like the book Witch of Blackbird Pond. It's not that the author didn't try, it's just that I hated the book. She may have won many awards
+Ref  : First of all I did not like the book Witch of Blackbird Pond. It's not that the author didn't try, it's just that I hated the book. She may have
+--------------------
+
+Sample 3:
+Input: Keeps Coffee Almost As Hot As When Poured From Coffee Pot.I like mine piping hot. I'm picky. This does keep it almost that hot though.Nice Long Cord (Over 5 Feet)Off/On Switch Conveniently Located On Coaster Front.Four Grip Feet On Bottom. Doesn't Burn Surface Of Table. Doesn't Slide Around.Good Buy!
+Gen  : Keeps Coffee Almost As Hot As When Poured From Coffee Pot.I like mine piping hot. I'm picky. This does keep it almost that hot though.Nice Long Cord (Over 5 Feet)Off/On Switch Conveniently
+Ref  : Keeps Coffee Almost As Hot As When Poured From Coffee Pot.I like mine piping hot. I'm picky. This does keep it almost that hot though.Nice Long Cord (Over 5 Feet)Off/On
+--------------------
+
+Sample 4:
+Input: It's one of the worst movies starting Keanu Reeves. The plot is ridiculous. The special effects are below par. There's no suspense nor horror here.
+Gen  : It's one of the worst movies starting Keanu Reeves. The plot is ridiculous. The special effects are below par. There's no suspense nor horror here.
+Ref  : It's one of the worst movies starting Keanu Reeves. The plot is ridiculous. The special effects are below par. There's no suspense nor horror here.
+--------------------
+
+Sample 5:
+Input: I got it for Kindle fire and my son needed it for his book report next day, so the day I bought, he was able to read in kindle cloud
+Gen  : I got it for Kindle fire and my son needed it for his book report next day, so the day I bought, he was able to read in kindle cloud
+Ref  : I got it for Kindle fire and my son needed it for his book report next day, so the day I bought, he was able to read in kindle cloud
+--------------------
+
+Sample 6:
+Input: I spent a couple hours, trying to get transfer DV from my camcorder to my mac powerbook. After hours and hours I had to realize that the USB cable delivered with the sony camcorder was absolutely worthless. If you don't own a sony VAIO (which in my opinion just a overdesigned peace of fancy 007 gear with an i.Link connection, which no other PC/MAC has)your getting frustrated pretty quick. I would have given the cable a 5 star rating, but the way I had to get the cable, by having to buy it seperately, is a big rip off. However I found the exact same cable in an apple store called "Thin Fire Wire". The exact same cable (1.8 Meter 4 to 6 pin to be exact) for only $29 and it works just fine. So check out an apple store near you and save some money.Shame on you Sony.
+Gen  : I spent a couple hours, trying to get transfer DV from my camcorder to my mac powerbook. After hours and hours I had to realize that the USB cable delivered with the
+Ref  : I spent a couple hours, trying to get transfer DV from my camcorder to my mac powerbook. After hours and hours I had to realize that the USB cable delivered
+--------------------
+
+Sample 7:
+Input: I've read "On The Road" three times over the last six years. It is, in my opinion, a masterpiece. Having said that I decided to get "Dharma Bums" and I did not care for most of the book as I am not into Buddha and zen. Only once in a while a glimmer of the fun of "On The Road" seeped in, but not enough.I also did not like the supporting characters as I did in "On The Road."This book was pushed by many people as Kerouac's second best. I found it to be uninteresting and probably should not pursue any other of his books if this was considered "his second best."
+Gen  : I've read "On The Road" three times over the last six years. It is, in my opinion, a masterpiece. Having said that I decided to get "Dharma Bums" and I did not
+Ref  : I've read "On The Road" three times over the last six years. It is, in my opinion, a masterpiece. Having said that I decided to get "Dharma Bums" and I
+--------------------
+
+Sample 8:
+Input: Clan of the cave bear is about a Cro-Magnon girl named Ayla. She is orphaned during an earthquake as a child. When she is attacked by a lion she is found nearly dead by a clan of Neanderthals. She is nursed back to health and is adopted by the clans medicine woman.Clan of the Cave Bear ( as well as the future books in the series )is thoroughly researched). The story is based on actual archealogical findings. The character Creb is a medicine man who has severe physical deformities. An actual neanderthal skeleton was discovered that apears to have the same deformaties that Creb has. The story is fictionalized but it is amazing how they cancreate a culture based on a few artifacts. Since there is no written record, "Clan of the Cave Bear " is as close to an actual ethnography of early modern humans as you can get.
+Gen  : Clan of the cave bear is about a Cro-Magnon girl named Ayla. She is orphaned during an earthquake as a child. When she is attacked by a lion she is
+Ref  : Clan of the cave bear is about a Cro-Magnon girl named Ayla. She is orphaned during an earthquake as a child. When she is attacked by a lion she is
+--------------------
+
+Sample 9:
+Input: One of the biggest disappointments I have seen in some time. My main complaint is when I see a theatrical trailer for a movie, and that rrailer implies the movie is a comedy, and then the movie does not deliver what the trailer seems to have promised, I hit the ceiling.There are characters in this movie who's inclusion makes no sense since they don't advance the plot and don't really come off as amusing either.The whole premise of buying a house in a foreign country in which you barely speak the language makes no sense either.I don't know -- maybe it's me -- it seems like the time would have been better spent watching a travel film on Tuscany.Ho-HUM!!
+Gen  : One of the biggest disappointments I have seen in some time. My main complaint is when I see a theatrical trailer for a movie, and that rrailer implies the movie is a comedy,
+Ref  : One of the biggest disappointments I have seen in some time. My main complaint is when I see a theatrical trailer for a movie, and that rrailer implies the movie
+--------------------
+
+Sample 10:
+Input: A plot and story that has been done before, better. Miserably bad acting: Tara Banks, Leanne Rymes. Only highlight: John Goodman. Better yet, rent something else.
+Gen  : A plot and story that has been done before, better. Miserably bad acting: Tara Banks, Leanne Rymes. Only highlight: John Goodman. Better yet, rent something else.
+Ref  : A plot and story that has been done before, better. Miserably bad acting: Tara Banks, Leanne Rymes. Only highlight: John Goodman. Better yet, rent something else.
+--------------------
+
+Sample 11:
+Input: You must be joking. Clay Aiken looks like a fairy. Dresses like a fairy. Talks like a fairy. He looks like he is made out of clay. Ha! Ha! Voice is down right awful. CD is a mess. He is definitely a product of poor American TV and should not be given the oppurtunity to put out another wretched album. BLAH!
+Gen  : You must be joking. Clay Aiken looks like a fairy. Dresses like a fairy. Talks like a fairy. He looks like he is made out of clay. Ha! Ha! Voice is down right awful.
+Ref  : You must be joking. Clay Aiken looks like a fairy. Dresses like a fairy. Talks like a fairy. He looks like he is made out of clay. Ha! Ha! Voice
+--------------------
+
+Sample 12:
+Input: We usually use the huggies pure and natural, huggies snug and dry, and pampers swaddlers (both older type and the newer dry max). We used another baby's diapers which were these pampers baby dry, and my son got huge rash splotches in several areas. I had heard about parents complaining about rashes and thought it was only a concern for babies with sensitive skin, but in 10 months this was the first time my son got a rash from the diaper. Glad we don't have a box of these around to throw out! I can't comment on how effective the diapers are on wetness and containment since we don't use them regularly.
+Gen  : We usually use the huggies pure and natural, huggies snug and dry, and pampers swaddlers (both older type and the newer dry max). We used another baby's diapers which were these pampers baby
+Ref  : We usually use the huggies pure and natural, huggies snug and dry, and pampers swaddlers (both older type and the newer dry max). We used another baby's diapers which were
+--------------------
+
+Sample 13:
+Input: I tried these because I used Pampers Swaddlers and Cruisers in the past and liked them (before switching to 7th Generation diapers temporarily because of concerns over my baby's skin sensitivity). The price enticed me to buy these, and I was really disappointed. They felt cheap and the performance was poor. LOTS of leaking, in my opinion. Her sheets and clothes all smelled like urine continuously. I couldn't wait to get rid of them. I bought Cruisers in the same size to replace them, and they were a lot bigger. Just an opinion, but to me I'd rather pay more for diapers that work better.
+Gen  : I tried these because I used Pampers Swaddlers and Cruisers in the past and liked them (before switching to 7th Generation diapers temporarily because of concerns over my baby's skin sensitivity).
+Ref  : I tried these because I used Pampers Swaddlers and Cruisers in the past and liked them (before switching to 7th Generation diapers temporarily because of concerns over my baby's skin
+--------------------
+
+Sample 14:
+Input: The streaming was so poor I eventually gave up and searched for the movie on my Verizon FIOS where I watched the last 30 minutes on TNT (with commercials) where it was also playing.
+Gen  : The streaming was so poor I eventually gave up and searched for the movie on my Verizon FIOS where I watched the last 30 minutes on TNT (with commercials) where it was also playing.
+Ref  : The streaming was so poor I eventually gave up and searched for the movie on my Verizon FIOS where I watched the last 30 minutes on TNT (with commercials) where
+--------------------
+
+Sample 15:
+Input: I installed this card in my computer running windows 7 64 bit. Had to connect to internet with wired connection to let windows search for driver. Within a minute it found the correct driver for windows 7, installed it and it immediately found my wi-fi connection. Just had to enter my passwoord and everything is working great.
+Gen  : I installed this card in my computer running windows 7 64 bit. Had to connect to internet with wired connection to let windows search for driver. Within a minute it found
+Ref  : I installed this card in my computer running windows 7 64 bit. Had to connect to internet with wired connection to let windows search for driver. Within a minute it
+--------------------
+
+Sample 16:
+Input: The book is so painfully simplistic, it looks as though it was made in one sitting. How could we possibly insult our children by making them think they're THIS ignorant?One child was swift to point out, "Does Larry have a last name, too? Or is he sharing the last name of Lilly? As in 'Harry and Lily Potter' do?And I had no choice but to confirm that yes, there is indeed a reason why these books are so.. uh... disturbing. They're related. And happily dating.Btw, the first book, "Larry Potter and his best friend Lilly..." you can clearly see in the book cover that Lilly, for a best friend, is a little too snug on the "personal space" touching. Even Ron wouldn't be caught in that pose with Harry and they're REAL best friends! So does that cover count as a spoiler? Cause for some strange reason "More than just friends" was more of a joke than a surprise. .Glad it was borrowed and not bought.And grats on little Kathrine smart enough to figure out the mystery behind the nonsense! <3
+Gen  : The book is so painfully simplistic, it looks as though it was made in one sitting. How could we possibly insult our children by making them think they're THIS ignorant?One child was
+Ref  : The book is so painfully simplistic, it looks as though it was made in one sitting. How could we possibly insult our children by making them think they're THIS ignorant?One
+--------------------
+
+Sample 17:
+Input: I only used pampers for my son when he was first born because they fit so well and were extremely absorbable! But after I lost my job I started buying the big boxes from Costco that are the kirkland brand diapers (which are basically the Huggies). I purchased these because of the price at the time with free shipping and the price of gas it turned out to cost just as much as those did. Well I will not be using these diapers for him anymore! They do not hold anything in! He goes to bed with a new/fresh diaper every night and by the time he wakes up 8-10 hours later he is completely soaked through! Never once did this happen with the Costco brand diapers...or pull ups! For 2 weeks now he has been soaking through every night and that is without liquids before bed! No more Pampers for me!
+Gen  : I only used pampers for my son when he was first born because they fit so well and were extremely absorbable! But after I lost my job I started buying the big boxes
+Ref  : I only used pampers for my son when he was first born because they fit so well and were extremely absorbable! But after I lost my job I started buying
+--------------------
+
+Sample 18:
+Input: Beautiful movie. I always admired Danish cinematography and this feature was the best so far. Fabulous set of very talented actors. I loved it and would definitely recommend it to everyone.
+Gen  : Beautiful movie. I always admired Danish cinematography and this feature was the best so far. Fabulous set of very talented actors. I loved it and would definitely recommend it to everyone.
+Ref  : Beautiful movie. I always admired Danish cinematography and this feature was the best so far. Fabulous set of very talented actors. I loved it and would definitely recommend it to
+--------------------
+
+Sample 19:
+Input: The more I listen to Clay's new CD the better I like it. He has a beautiful voice and I could listen to it all day. You can understand the words as he sings them which is not the case for alot of other singers. I hope he continues to sing and make more CDs but most of all I hope he finishes his education.
+Gen  : The more I listen to Clay's new CD the better I like it. He has a beautiful voice and I could listen to it all day. You can understand the words as
+Ref  : The more I listen to Clay's new CD the better I like it. He has a beautiful voice and I could listen to it all day. You can understand the
+--------------------
+
+Sample 20:
+Input: Being a big fan of The Great Milenko and The Amazing Jeckel Brothers this is what i would expect from ICP. No fancy Lyrics but some funny stuff thrown in and the beats keep you movin'.
+Gen  : Being a big fan of The Great Milenko and The Amazing Jeckel Brothers this is what i would expect from ICP. No fancy Lyrics but some funny stuff thrown in and the beats keep
+Ref  : Being a big fan of The Great Milenko and The Amazing Jeckel Brothers this is what i would expect from ICP. No fancy Lyrics but some funny stuff thrown in
+--------------------
+
+Sample 21:
+Input: Im a huge Smallville fan ever since the first season although I think the season is good and has a good story I miss some of the older characters. But other than that worth the money!!
+Gen  : Im a huge Smallville fan ever since the first season although I think the season is good and has a good story I miss some of the older characters. But other
+Ref  : Im a huge Smallville fan ever since the first season although I think the season is good and has a good story I miss some of the older characters. But
+--------------------
+
+Sample 22:
+Input: This album is truly a masterpiece. Immortal has goneback to their heavy-metal roots. The songs are long and not complex as their previousalbums were. Different direction, not as fast as their older albums, but stillunmistakable Immortal. I trulyrecommend this album.
+Gen  : This album is truly a masterpiece. Immortal has goneback to their heavy-metal roots. The songs are long and not complex as their previousalbums were. Different direction, not as fast as
+Ref  : This album is truly a masterpiece. Immortal has goneback to their heavy-metal roots. The songs are long and not complex as their previousalbums were. Different direction, not as fast as
+--------------------
+
+Sample 23:
+Input: I bought this to help heat a bath off my master bedroom. It works like a charm I run it for twenty minutes prior to hopping into the shower and no more shivering!
+Gen  : I bought this to help heat a bath off my master bedroom. It works like a charm I run it for twenty minutes prior to hopping into the shower and no more shivering!
+Ref  : I bought this to help heat a bath off my master bedroom. It works like a charm I run it for twenty minutes prior to hopping into the shower and
+--------------------
+
+Sample 24:
+Input: We started out with Pampers Swaddlers from newborn to Size 2-3 which is the largest that they make. These were hands down the best diapers we have tried during the first year. After our daughter outgrew the Swaddlers we tried Pampers Cruisers and were a little disappointed, however the Cruisers did their job of keeping everything where it was supposed to be. I saw the reviews for Baby Dry and thought "hey let's try these and see if they are better than Cruisers" BIG MISTAKE. We received the diapers yesterday and have already had multiple leaks and overflows. These diapers have almost no absorbency and need to be changed approximately every 2 hours for us. We made the mistake of using it overnight and the entire bed was soaking wet this morning.These diapers may work for some, however I can't believe that they would work for many considering how little they can hold. Buyer beware.
+Gen  : We started out with Pampers Swaddlers from newborn to Size 2-3 which is the largest that they make. These were hands down the best diapers we have tried during the first year. After
+Ref  : We started out with Pampers Swaddlers from newborn to Size 2-3 which is the largest that they make. These were hands down the best diapers we have tried during the
+--------------------
+
+Sample 25:
+Input: This is a Graber guadian 3 ike rack, NOT a Saris guadian 3. I purchased it and it looks very simular, but has no anti-sways and the straps are a hard cheap plastic. I called the company and they said all they could do was have me send it back and get my money back. I informed them that the pictures on the advertisements were not of the one they sent me and they just said if I was unhappy with my purchase, I could return it. This was a week ago, and as I see they still advertise the Saris with anti-sways and rubber hold down straps. BEWARE of this company!!!!
+Gen  : This is a Graber guadian 3 ike rack, NOT a Saris guadian 3. I purchased it and it looks very simular, but has no anti-sways and the straps are a hard
+Ref  : This is a Graber guadian 3 ike rack, NOT a Saris guadian 3. I purchased it and it looks very simular, but has no anti-sways and the straps are a
+--------------------
+
+Sample 26:
+Input: This book is a total waste of money; it is only useful for lighting up the BBQ. The only one to make (plenty?)of money out of this book is the writer. Do not be discouraged by the title!. This is not a serious book.
+Gen  : This book is a total waste of money; it is only useful for lighting up the BBQ. The only one to make (plenty?)of money out of this book is the writer. Do not
+Ref  : This book is a total waste of money; it is only useful for lighting up the BBQ. The only one to make (plenty?)of money out of this book is the
+--------------------
+
+Sample 27:
+Input: Deadly accurate too, especially the mother stuff. Incredible performances, but I'd rather curl up with the cat and watch 'Roman Holiday'. Life's too short to roll around in the John.
+Gen  : Deadly accurate too, especially the mother stuff. Incredible performances, but I'd rather curl up with the cat and watch 'Roman Holiday'. Life's too short to roll around in the John.
+Ref  : Deadly accurate too, especially the mother stuff. Incredible performances, but I'd rather curl up with the cat and watch 'Roman Holiday'. Life's too short to roll around in the John.
+--------------------
+
+Sample 28:
+Input: Bland rip off of a great comic book not only puts the worse actor imaginable for the main character but has a script that is almost a crime in itself. The dialog is so bad that it would even make deaf children cry and the special effects are not as good as one might hope. Some of the acting is great and that's a great feat in itself because of how bad the script is. Rachel Weisz, Djimon Hounsou and Tilda Swinton do great work here and for that, people should be grateful for but it's still Keanu's film and he still torpedo it with a lousy performance that is in tune with the lousy script it has.If this is the best they have to offer for the fans of the comic book, then take it back.
+Gen  : Bland rip off of a great comic book not only puts the worse actor imaginable for the main character but has a script that is almost a crime in itself. The dialog is
+Ref  : Bland rip off of a great comic book not only puts the worse actor imaginable for the main character but has a script that is almost a crime in itself.
+--------------------
+
+Sample 29:
+Input: Great sound if you position it one foot from a bare wall, squarely. These speakers need to breathe. Crisp high notes, particularly any Classical music or vintage Rock N' Roll....
+Gen  : Great sound if you position it one foot from a bare wall, squarely. These speakers need to breathe. Crisp high notes, particularly any Classical music or vintage Rock N' Roll....
+Ref  : Great sound if you position it one foot from a bare wall, squarely. These speakers need to breathe. Crisp high notes, particularly any Classical music or vintage Rock N' Roll....
+--------------------
+
+Sample 30:
+Input: While the technical specification of JSTL is readable like most hi-tech documents are "readable" (i.e. it left me sometimes a bit puzzled), this book is both deep and full of very useful examples. Sometimes, in my opinion it goes too far (programming a message board with JSTL), but this only goes to show how powerful JSTL really is.Overall, I really enjoyed reading it: It made a lot of things clearer and there were a couple of times where I thought: "Oh, I didn't know that JSTL could do that!".
+Gen  : While the technical specification of JSTL is readable like most hi-tech documents are "readable" (i.e. it left me sometimes a bit puzzled), this book is both deep and full of very
+Ref  : While the technical specification of JSTL is readable like most hi-tech documents are "readable" (i.e. it left me sometimes a bit puzzled), this book is both deep and full of
+--------------------
+
+Sample 31:
+Input: from start to finish it left you with knowledge and a possible desire to get in deeper. i read the entire book in only two sessions.
+Gen  : from start to finish it left you with knowledge and a possible desire to get in deeper. i read the entire book in only two sessions.
+Ref  : from start to finish it left you with knowledge and a possible desire to get in deeper. i read the entire book in only two sessions.
+--------------------
+
+Sample 32:
+Input: I bought the Alpha Diamante Cristalli Illuminating shampoo and conditioner, the first time I used it I didn't like the results but after the third time of use this product cause my haird to be extremely dry causing scabs on my scalp I discontinued but this was a waste of money and my hair is worse.
+Gen  : I bought the Alpha Diamante Cristalli Illuminating shampoo and conditioner, the first time I used it I didn't like the results but after the third time of use this product cause my haird
+Ref  : I bought the Alpha Diamante Cristalli Illuminating shampoo and conditioner, the first time I used it I didn't like the results but after the third time of use this product
+--------------------
+
+Sample 33:
+Input: First, let me say, I'd heard that I might find the Dark Series of Christine Feehan's my cup of tea and for some unknown reason, thought this was one in the series - no need to tell you, I was severely disappointed (and confused).This book really reminded me of the romances my Mother used to read back in the 70's - blech! Lots of dark male broodiness, all written from the heroines point of view, and of course she's a young innocent virgin._____________edited to add: I really wish I had only given this one star, but it appears I can't change that now.
+Gen  : First, let me say, I'd heard that I might find the Dark Series of Christine Feehan's my cup of tea and for some unknown reason, thought this was one in the series - no
+Ref  : First, let me say, I'd heard that I might find the Dark Series of Christine Feehan's my cup of tea and for some unknown reason, thought this was one in
+--------------------
+
+Sample 34:
+Input: Terry Pratchett's other books are a lot like well painted homes. There are several layers. "Small Gods" is like inviting over your friends to paint. There is one uneven coat of paint and they left masking tape on all of the edging in an unsuccessful attempt to miss it with their paintbrushes. The ending of the book (and middle and beginning too if truth be known) left me with the same vague feeling of dissatisfaction as when I realized that to get the place properly painted I would have to have another seperate group of friends and throw another 'paint party'.
+Gen  : Terry Pratchett's other books are a lot like well painted homes. There are several layers. "Small Gods" is like inviting over your friends to paint. There is one uneven coat of paint and
+Ref  : Terry Pratchett's other books are a lot like well painted homes. There are several layers. "Small Gods" is like inviting over your friends to paint. There is one uneven coat
+--------------------
+
+Sample 35:
+Input: I must agree with the other reviewer that this book offers no additional eye-opening facts in respect to owning a Burmese cat... The history section is specific to the breed (but as a new or existing Burmese owner, you'd probably already know this prior to getting one!) & there is one blurb regarding the Burmese characteristic to yowl when they require attention. Beyond that this book could really be for any other cat out there (feed your cat, give it water, groom it,...). It didn't even specify normal size/weight ranges for the breed and what quantities of food to give them as a guideline. So, in my opinion, useless to a new Burmese owner. Also, I was a bit disappointed that all of the photos are only of Sable & Chocolate Burmese (they are all gorgeous, but a few photos of Blues or Lilacs would be appreciated). All in all this book was disappointing.
+Gen  : I must agree with the other reviewer that this book offers no additional eye-opening facts in respect to owning a Burmese cat... The history section is specific to the breed (but as a new or
+Ref  : I must agree with the other reviewer that this book offers no additional eye-opening facts in respect to owning a Burmese cat... The history section is specific to the breed
+--------------------
+
+Sample 36:
+Input: As somebody else wrote earlier, it is so much great music out there that these I.Com tracks sound awfully poor and dry to me; maybe if that album would have appeared in the 90s it'd have sounded slightly more surprising, but just a few weeks before Björk releases Medulla, and definitely late after the Chicks on Speed albums (and without even 10% of their musical imagination) Miss Kittin with her new release is making electronic music sound like a joke, and conceived for people who never heard about Warp, Rephlex and the intelligent vast worlds of true electronica. To avoid.
+Gen  : As somebody else wrote earlier, it is so much great music out there that these I.Com tracks sound awfully poor and dry to me; maybe if that album would have appeared in the 90s it'd
+Ref  : As somebody else wrote earlier, it is so much great music out there that these I.Com tracks sound awfully poor and dry to me; maybe if that album would have
+--------------------
+
+Sample 37:
+Input: Although later historical facts have put a few holes in the details of this CD and the original book, the content was in the main true to the actual happenings. Clifton Webb's acting job was top notch. A good spy stroy based on actual events.
+Gen  : Although later historical facts have put a few holes in the details of this CD and the original book, the content was in the main true to the actual happenings. Clifton Webb's acting job
+Ref  : Although later historical facts have put a few holes in the details of this CD and the original book, the content was in the main true to the actual happenings.
+--------------------
+
+Sample 38:
+Input: I bought this Mr Coffee Mug Warmer a few weeks ago and am so pleased with it that I felt I needed to write a review, mostly to complement the people who designed and manufactured it. This product was well thought out and manufactured very well, especially for a product costing only about $10. It has an on/off switch right on the base and a power on light right next to it. I would not want one with an in-line power switch. The unit is sturdy and feels good quality. The power cord is heavy and plenty long, as needed for most desktop situations. I have used it with a number of different cups, all having a small ridge around the bottom, and they all work equally well. The coffee stays at just the right temperature, and the cup doesn't get uncomfortably hot. I highly recommend this to anyone looking for a good cup warmer. Good job Mr Coffee.
+Gen  : I bought this Mr Coffee Mug Warmer a few weeks ago and am so pleased with it that I felt I needed to write a review, mostly to complement the people who
+Ref  : I bought this Mr Coffee Mug Warmer a few weeks ago and am so pleased with it that I felt I needed to write a review, mostly to complement the
+--------------------
+
+Sample 39:
+Input: My two year absolutely loves puzzles and this has been a great addition to our collection.. It's sturdy and I don't think she'll be able to wear it out or break it.
+Gen  : My two year absolutely loves puzzles and this has been a great addition to our collection.. It's sturdy and I don't think she'll be able to wear it out or break it.
+Ref  : My two year absolutely loves puzzles and this has been a great addition to our collection.. It's sturdy and I don't think she'll be able to wear it out or
+--------------------
+
+Sample 40:
+Input: This is a delightful toy and very powerful. The downside is that it is very loud, looks like a child's toy, and it is a lint/hair magnet. However I would still recommend this product. It is a great product for misdirection or concealment if you at all concerned about getting flack for having a vibrator because the average Joe isn't gonna realize what it is unless you tell them. Great for travel since I personally think that it would be less embarrassing for some airport attendant to pull this out of your bag at checkout/check in then a different style vibrator.
+Gen  : This is a delightful toy and very powerful. The downside is that it is very loud, looks like a child's toy, and it is a lint/hair magnet. However I would still recommend
+Ref  : This is a delightful toy and very powerful. The downside is that it is very loud, looks like a child's toy, and it is a lint/hair magnet. However I would
+--------------------
+
+Sample 41:
+Input: Number one, Russell Crowe need to stick to acting. He can't sing. (Well, Kris can't either but at least his voice has something that holds on to you.)Number two, Brian McKnight on Bobby McGee?? That's just plain w-r-o-n-g. I can't stand to listen to it.Otherwise, the rest of it is just fantastic.
+Gen  : Number one, Russell Crowe need to stick to acting. He can't sing. (Well, Kris can't either but at least his voice has something that holds on to you.)Number two, Brian McKnight on Bobby McGee?? That's just
+Ref  : Number one, Russell Crowe need to stick to acting. He can't sing. (Well, Kris can't either but at least his voice has something that holds on to you.)Number two, Brian
+--------------------
+
+Sample 42:
+Input: THAT IS CORRECT! After 2 years of light use, I noticed a pool of water on the counter around this miserable piece of garbage.WHY would a piece of STAINLESS steel develop a LEAK? What nonsense.Get something else, anything!!
+Gen  : THAT IS CORRECT! After 2 years of light use, I noticed a pool of water on the counter around this miserable piece of garbage.WHY would a piece of STAINLESS steel develop
+Ref  : THAT IS CORRECT! After 2 years of light use, I noticed a pool of water on the counter around this miserable piece of garbage.WHY would a piece of STAINLESS steel
+--------------------
+
+Sample 43:
+Input: ...Mr. Jensen and his wife have developed a veritable cottage industry replete with workshops, seminars, presentations, publications, certifications -- if you've got the money then they have something to sell you...and all of it is centered around what is termed "brain-based learning"...but what this book presents is little more than 400 pages of scientifically unsubstantiated claims and recommendations...for example, it claims that the color yellow somehow enhances intellectual performance and, hence, classrooms should be painted yellow...however, he doesn't offer a shred of evidence to back that claim up...it's all just ridiculous...how does this stuff ever make it into print?
+Gen  : ...Mr. Jensen and his wife have developed a veritable cottage industry replete with workshops, seminars, presentations, publications, certifications -- if you've got the money then they have something to sell you...and all of
+Ref  : ...Mr. Jensen and his wife have developed a veritable cottage industry replete with workshops, seminars, presentations, publications, certifications -- if you've got the money then they have something to sell
+--------------------
+
+Sample 44:
+Input: The bottle press doesn't allow air intake, which means the more lotion you squeeze out, the more distorted the container will be. Because It's odd that such a good product comes with bad bottle design.
+Gen  : The bottle press doesn't allow air intake, which means the more lotion you squeeze out, the more distorted the container will be. Because It's odd that such a good product comes with bad bottle design.
+Ref  : The bottle press doesn't allow air intake, which means the more lotion you squeeze out, the more distorted the container will be. Because It's odd that such a good product
+--------------------
+
+Sample 45:
+Input: I just saw this book at a yard sale, the title caught my interest and I am not sorry I bought it. I enjoyed it so much I bought it for my Daughter-in law's birthday
+Gen  : I just saw this book at a yard sale, the title caught my interest and I am not sorry I bought it. I enjoyed it so much I bought it for my Daughter-in law's
+Ref  : I just saw this book at a yard sale, the title caught my interest and I am not sorry I bought it. I enjoyed it so much I bought it
+--------------------
+
+Sample 46:
+Input: Excellet service on receiving this book and it is perfect!It was received very quickly and in excelent condition.Pricing was also great. Keep up the good work.
+Gen  : Excellet service on receiving this book and it is perfect!It was received very quickly and in excelent condition.Pricing was also great. Keep up the good work.
+Ref  : Excellet service on receiving this book and it is perfect!It was received very quickly and in excelent condition.Pricing was also great. Keep up the good work.
+--------------------
+
+Sample 47:
+Input: its unbelievable to me that you still have this available to purchase. After 9/30/01, you cannot use this, so why is it on sale still? and why is it going off the market? Its a great idea, I hope someone else picks up where sony leaves off.
+Gen  : its unbelievable to me that you still have this available to purchase. After 9/30/01, you cannot use this, so why is it on sale still? and why is it
+Ref  : its unbelievable to me that you still have this available to purchase. After 9/30/01, you cannot use this, so why is it on sale still? and why is it going
+--------------------
+
+Sample 48:
+Input: Excellent book for those among us who are working to integrate the Reggio approach into our U.S. early childhood classrooms.
+Gen  : Excellent book for those among us who are working to integrate the Reggio approach into our U.S. early childhood classrooms.
+Ref  : Excellent book for those among us who are working to integrate the Reggio approach into our U.S. early childhood classrooms.
+--------------------
+
+Sample 49:
+Input: Ms Too has tackled a subject that is immensely difficult to learn. However, I thought her approach and explaination was excellent. Readers, please be patient and reread each section more than once.Again, advance Feng Shui puts alot of people in despair due to the topic but once you master the knowledge, the wisdom and flow will pour forth clearly.
+Gen  : Ms Too has tackled a subject that is immensely difficult to learn. However, I thought her approach and explaination was excellent. Readers, please be patient and reread each section more than once.Again, advance
+Ref  : Ms Too has tackled a subject that is immensely difficult to learn. However, I thought her approach and explaination was excellent. Readers, please be patient and reread each section more
+--------------------
+
+Sample 50:
+Input: I really got into belly dance workouts about 6 years ago and purchased this video at that time. I remember hating it and thinking that it was the most worthless video I'd seen. After falling off the belly dance wagon, I now lead a group of women who are learning to belly dance using instructional videos. In going through my collection I revisted this video and realised that it would have made a great introduction to the world of belly dance. I plan on teaching a new group next year and will use this video the first night for those who are interested in the history and basic moves. I am so glad that I gave this video another chance.
+Gen  : I really got into belly dance workouts about 6 years ago and purchased this video at that time. I remember hating it and thinking that it was the most worthless video I'd seen.
+Ref  : I really got into belly dance workouts about 6 years ago and purchased this video at that time. I remember hating it and thinking that it was the most worthless
+--------------------

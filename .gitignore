@@ -1,10 +1,35 @@
+# Python
 __pycache__/
-.ipynb_checkpoints/
+*.py[cod]
+*$py.class
 .venv/
-.env
+venv/
+*.egg-info/
+
+# Data & Models (too large for GitHub)
 data_raw/
 data_processed/
-*.pyc
+outputs/*/checkpoint-*/
+*.safetensors
+*.bin
+*.pt
+!outputs/*/config.json
+!outputs/*/tokenizer*
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
 .DS_Store
+Thumbs.db
 downloads/
 secrets.yaml
+outputs/
+models/
+*.safetensors

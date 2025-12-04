@@ -1,0 +1,16 @@
+# Model Download Instructions
+
+The large model files for this project are hosted externally to keep the repository lightweight.
+
+## Download Links
+- **Summarizer Model**: [Link to Summarizer Model]
+- **Classifier Model**: [Link to Classifier Model]
+
+## Installation
+1. Download the model files from the links above.
+2. Place them in the `models/` directory in the root of this repository.
+   - `models/summarizer/`
+   - `models/classifier/`
+
+## Note
+Ensure you have `git lfs` installed if you decide to track smaller model artifacts, but for this project, we recommend keeping heavy weights out of git entirely.

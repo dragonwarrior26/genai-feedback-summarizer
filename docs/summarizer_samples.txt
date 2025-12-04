@@ -1,0 +1,40 @@
+SAMPLE 1
+PRED: I found this cd on the shelf at my work. I'm listening to it right now. Sweet instrumentals that make me want to dance around. It reminds me of sugarplum fairies creating music
+REF : I found this cd on the shelf at my work. I'm listening to it right now. Sweet instrumentals that make me want to dance around. It reminds me of sugarplum
+----------------------------------------
+SAMPLE 2
+PRED: First of all I did not like the book Witch of Blackbird Pond. It's not that the author didn't try, it's just that I hated the book. She may have won many awards
+REF : First of all I did not like the book Witch of Blackbird Pond. It's not that the author didn't try, it's just that I hated the book. She may have
+----------------------------------------
+SAMPLE 3
+PRED: Keeps Coffee Almost As Hot As When Poured From Coffee Pot.I like mine piping hot. I'm picky. This does keep it almost that hot though.Nice Long Cord (Over 5 Feet)Off/On Switch Conveniently
+REF : Keeps Coffee Almost As Hot As When Poured From Coffee Pot.I like mine piping hot. I'm picky. This does keep it almost that hot though.Nice Long Cord (Over 5 Feet)Off/On
+----------------------------------------
+SAMPLE 4
+PRED: It's one of the worst movies starting Keanu Reeves. The plot is ridiculous. The special effects are below par. There's no suspense nor horror here.
+REF : It's one of the worst movies starting Keanu Reeves. The plot is ridiculous. The special effects are below par. There's no suspense nor horror here.
+----------------------------------------
+SAMPLE 5
+PRED: I got it for Kindle fire and my son needed it for his book report next day, so the day I bought, he was able to read in kindle cloud
+REF : I got it for Kindle fire and my son needed it for his book report next day, so the day I bought, he was able to read in kindle cloud
+----------------------------------------
+SAMPLE 6
+PRED: I spent a couple hours, trying to get transfer DV from my camcorder to my mac powerbook. After hours and hours I had to realize that the USB cable delivered with
+REF : I spent a couple hours, trying to get transfer DV from my camcorder to my mac powerbook. After hours and hours I had to realize that the USB cable delivered
+----------------------------------------
+SAMPLE 7
+PRED: I've read "On The Road" three times over the last six years. It is, in my opinion, a masterpiece. Having said that I decided to get "Dharma Bums" and I did not
+REF : I've read "On The Road" three times over the last six years. It is, in my opinion, a masterpiece. Having said that I decided to get "Dharma Bums" and I
+----------------------------------------
+SAMPLE 8
+PRED: Clan of the cave bear is about a Cro-Magnon girl named Ayla. She is orphaned during an earthquake as a child. When she is attacked by a lion she is
+REF : Clan of the cave bear is about a Cro-Magnon girl named Ayla. She is orphaned during an earthquake as a child. When she is attacked by a lion she is
+----------------------------------------
+SAMPLE 9
+PRED: One of the biggest disappointments I have seen in some time. My main complaint is when I see a theatrical trailer for a movie, and that rrailer implies the movie is a comedy,
+REF : One of the biggest disappointments I have seen in some time. My main complaint is when I see a theatrical trailer for a movie, and that rrailer implies the movie
+----------------------------------------
+SAMPLE 10
+PRED: A plot and story that has been done before, better. Miserably bad acting: Tara Banks, Leanne Rymes. Only highlight: John Goodman. Better yet, rent something else.
+REF : A plot and story that has been done before, better. Miserably bad acting: Tara Banks, Leanne Rymes. Only highlight: John Goodman. Better yet, rent something else.
+----------------------------------------
