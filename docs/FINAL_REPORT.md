@@ -2,7 +2,8 @@
 
 **Author**: Aayush Sharma  
 **Date**: December 4, 2025  
-**Project**: AI-Powered Customer Feedback Analysis System
+**Project**: AI-Powered Customer Feedback Analysis System  
+**GitHub Repository**: [dragonwarrior26/genai-feedback-summarizer](https://github.com/dragonwarrior26/genai-feedback-summarizer)
 
 ---
 
@@ -372,5 +373,3 @@ See `api/README.md` for complete API documentation and examples.
 - **Clusters**: 5 topics, 1,000 samples each
 
 ---
-
-**End of Report**
